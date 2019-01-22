@@ -34,7 +34,7 @@ The runtimes for execution on the instances of the following datasets were recor
 - eu\-2005
 
 
-Graphs plotted for the recorded values can be found here : [Graphs Page](http://htmlpreview.github.io/?https://github.com/SagarB-97/Sparse-Matrix-Vector-Multiplication/blob/master/Observations/graphs.html)
+Graphs plotted for the recorded values can be found here : [Graphs Page](https://sagarb-97.github.io/Sparse-Matrix-Vector-Multiplication/)
 
 ## Datasets
 Datasets can be found here: https://sparse.tamu.edu/
